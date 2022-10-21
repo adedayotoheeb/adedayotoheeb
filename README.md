@@ -1,13 +1,10 @@
-# Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Adedayo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://Chukwu3meka.medium.com/)
-[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/adedayo-ashiru)
 
 ## About Me 😎
 
-I'd say, am a **Fullstack developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚
+I'd say, am a **Backend Developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚
 
 #### Personal Projects ⚡
 
