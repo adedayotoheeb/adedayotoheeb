@@ -4,8 +4,7 @@
 
 ## About Me 😎
 
-I'd say, am a **Backend Developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚
-
+I'd say, am a **Backend Developer** 👻 
 #### Personal Projects ⚡
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Instantly translates words, phrases,documents and web pages between English, French and Spanish. Tools used include Next.js, Express.and MongoDB Atlas Search [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
@@ -18,10 +17,10 @@ I'd say, am a **Backend Developer** 👻 I've worked on Mobile, Desktop and Web 
 
 ## ⚙️ Favourite tools ⚒️
 
-Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
+JavaScipt, TypeScript, Node, Nest.js, Python, Django,  Postgres,
 
 <p align="center">
-<img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
+
 
 <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en" alt="Chukwu3meka" />
 
@@ -42,16 +41,11 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 <!-- ## 💰 Support Me 👋
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/chukwu3meka" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70" ></a>
-</p> -->
+
 
  <!-- 👀 I’m interested in ... -->
  <!-- 💞️ I’m looking to collaborate on ... -->
  <!-- 📫 How to reach me ... --> -->
 <!-- 🚀🤖 🎨 -->
 
-<!-- Attention: Next.js now collects completely anonymous telemetry regarding usage.
-This information is used to shape Next.js' roadmap and prioritize features.
-You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
-https://nextjs.org/telemetry -->
+
