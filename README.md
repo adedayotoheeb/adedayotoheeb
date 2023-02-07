@@ -15,11 +15,11 @@ Outside of work, I enjoy staying active and spending time outdoors. I also have 
 I am excited to bring my skills, passion, and drive to new challenges and opportunities. If you're looking for a software engineer who can deliver results and add value to your team, I would love to hear from you.
 
 ---
-##Contact Me 
+## Contact Me 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/adedayo-ashiru)
 
 ---
-##Tech Stack
+## Tech Stack
 
 ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Django](https://static.djangoproject.com/img/logos/django-logo-positive.svg) &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Node.Js](https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png)
